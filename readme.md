@@ -10,9 +10,9 @@ default background light；
 
 size：56mm * 34mm
 
-shopping link：
+shopping link：https://item.taobao.com/item.htm?ft=t&id=696823034902
 
-video link：
+video link：https://www.bilibili.com/video/BV11P4y1q7pL
 
 ### PCB 3D
 
